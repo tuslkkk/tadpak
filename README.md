@@ -31,3 +31,7 @@ import tadpak import evaluate
 
 results = evaluate.evaluate(scores, targets)
 ```
+
+## To be updated
+---
+1. Compare customized model with case 1,2,3 of the paper
