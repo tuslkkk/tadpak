@@ -1,0 +1,8 @@
+setup.py
+tadpak/__init__.py
+tadpak/evaluate.py
+tadpak/pak.py
+tadpak.egg-info/PKG-INFO
+tadpak.egg-info/SOURCES.txt
+tadpak.egg-info/dependency_links.txt
+tadpak.egg-info/top_level.txt
